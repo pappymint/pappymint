@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Front end software engineer (currently working with Vue/TS)
+- 😄 Front end software engineer (currently working with Vue/TS/PHP stack)
 - 🔭 I’m currently working on creating RuneLite plugins
 - 🌱 I want to learn how to contribute to open source projects
 - 🤔 I’m looking for help with Java / Runelite plugin creation
